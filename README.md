@@ -37,7 +37,7 @@ We are:
 
 # 🟢 Step 1: System Preparation (All Nodes)
 
-```bash
+
 sudo swapoff -a
 sudo modprobe br_netfilter
 
